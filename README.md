@@ -25,7 +25,7 @@ A **content-based music recommender system** that suggests songs based on **lyri
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+### Clone the repository and Run
 ```bash
 git clone https://github.com/sruthi-pyda/music-recommendation-system.git
 cd music-recommendation-system
